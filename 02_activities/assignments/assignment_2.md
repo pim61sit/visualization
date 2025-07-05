@@ -9,26 +9,35 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
+      I have reviewed two data visualization products: the World Happiness Report 2024 and the Global Vunerability Index 2024. 
 
+      First, the World Happiness Report 2024 was reviewed. The positive aspects of this data visualization product include: 
+      - On the lefthand side, the product explains ways to read the results, such as lenegds and a short product description. The same side also explains the top and bottom five countries by the happiness scores.
+      - On the top of the main space, it explains the average scores of each of the five contents and the overall score. 
+      - Under individual continent, the tab lists countries included in the continent. 
+      - A reviewer can hover over individual country pie chart. The pie charts show indicators which compose the score of these individual countries.  
 
-
-
-
-
-
+      Second, the Global Vunerability Index was reviewed. The positive aspects of this data visualization product include:
+      - On top of the page, the product describe the overview and percentile of subject countries. 
+      - The same space also lists thematic tabs to change the index scores. 
+      - Below the top page four continents and their average scores are described. 
+      - When an individual country is clicked, the country scores are illustrated in a pop up window.
+      - The bottom of the page lists the author information and data source. 
+      
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Third, the below comments describe some considerations for improving the World Happiness Report 2024. 
+      - The legend description could be placed in the bottom of the page as it has some white spaces left. The left of the page also appeared to be less spaces to have all information in the current design.
+      - The data source is missing from the report, unless I am looking at the wrong places. 
+      - If this is the data source, MOM Week 5 needs further description as it is unclear what is MOM 5. 
+      - In some continent, the appearance seems to be overwhelming as more countries are included in the continent tab. For example, under the Africa tab, many countries are listed on one page. 
 
-
-
-
-
-
-      
+      Fourth, the below comments describe some considerations for improving the Vulnerability Indiex product. 
+      - The information is overwhelming at the current design. All countries are listed on one page. 
+      - Color contrast could be improved as the contrast between Pink and light blue seem to be an add combination. 
+      - The country short hand could be improved as they are diffuclt to understand from the initial view. 
+          
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
